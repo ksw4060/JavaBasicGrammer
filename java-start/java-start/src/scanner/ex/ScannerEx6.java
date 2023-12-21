@@ -13,6 +13,7 @@ public class ScannerEx6 {
             }
             System.out.print("당신의 나이를 입력하세요. : ");
             int age = scanner.nextInt();
+            scanner.nextLine();
             System.out.println("당신의 이름은 " + name + "이고, 나이는 " + age + "살입니다. ");
             System.out.println("------------------------------- ");
             System.out.println(" ");
