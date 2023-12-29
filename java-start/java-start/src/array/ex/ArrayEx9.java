@@ -39,7 +39,6 @@ public class ArrayEx9 {
                 System.out.println("숫자를 입력하세요.");
                 input.nextLine();
             }
-
         }
     }
 }
